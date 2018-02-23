@@ -1,0 +1,6 @@
+As a job-seeker, I want to see job postings within 50 miles of Bridgewater from stack overflow's job posting.
+
+As the developer, I want to display stack overflow's job listing for whoever needs a job.
+
+As the job-seeker, I want to see only a portion of the jobs to make readability easier.
+ 

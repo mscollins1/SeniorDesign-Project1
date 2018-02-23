@@ -1,0 +1,20 @@
+Michael Scollins
+490 Capstone Project1
+
+This program gets the url from stack overflow's job listing by reading the rss feed.
+Then using BeautifulSoup4, it parses the feed to display the job title, job languages
+it requires, job description, link to the listing on stack overflow, and finally the
+publish date of the job post, all to the console.
+
+What must be installed:
+Beautiful Soup4
+pytest
+requests
+
+what is imported:
+BeautifulSoup
+urllib.request
+URLError and HTTPError from urllib.error
+
+I ran this in python version 3.6
+
